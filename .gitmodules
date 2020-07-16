@@ -1,0 +1,4 @@
+[submodule "odoocr/l10n_cr"]
+	path = odoocr/l10n_cr
+	url = git@github.com:odoocr/l10n_cr.git
+	branch = 13.0
